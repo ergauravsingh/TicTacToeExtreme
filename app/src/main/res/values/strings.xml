@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe - Extreme</string>
+    <string name="heading">Tic-Tac-Toe</string>
+    <string name="grid">Our main grid</string>
+    <string name="reset">Reset</string>
+    <string name="nightmode">Night Mode</string>
+    <string name="nmoff">Off</string>
+    <string name="nmon">On</string>
+</resources>
